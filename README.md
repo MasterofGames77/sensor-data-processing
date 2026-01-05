@@ -183,8 +183,3 @@ TEMPERATURE:
 ## License
 
 This project is created for portfolio/resume purposes.
-
-## Author
-
-Built as a demonstration project for SEACORP Software Engineer I position application.
-
